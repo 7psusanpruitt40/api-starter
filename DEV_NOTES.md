@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Ran linter, applied auto-fixes
 - Pinned dependency versions for reproducibility
+
+## 2026-05-06
+- Fixed off-by-one error in loop
+- Updated CI cache strategy
+- Noted known limitation in docs
